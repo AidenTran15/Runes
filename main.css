@@ -23,7 +23,17 @@ nav{
     color: #f9fbe7;
     text-align: center;
     font-family:  "Beaufort for LOL", serif;
+    margin-top: 3px;
 }
-.fas fa-arrow-right{
-    color: #f9fbe7;
+#role{
+    font-family: "Beaufort for LOL", serif;
+    color: gray;
+    font-size: 50px;
+    margin-left: 90px;
+    margin-top: 80px;
+    margin-bottom: -25px;
+
+}
+#runes{
+    margin-left: 140px;
 }
